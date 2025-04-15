@@ -1,0 +1,18 @@
+doctype é um documento essencial
+<html> é o corpo do documento
+<head> coloca os links, títulos
+<body> onde fica o corpo da aplicação
+
+O bootStrap sempre chega ao limte 12
+
+No head nos colocamos os links do bootstrap, ou seja, nossas dependencias.
+
+Todas as modificações que nós fazemos no bootstrap ficam em uma div na classe container.
+Ex: <div class="Container"></div>
+
+classes utilitários
+border adiciona bordas
+border-danger -> adiciona cores nas bordas
+classe paddding = p-1..5
+
+mustache é um framework que renderiza arquivos html
